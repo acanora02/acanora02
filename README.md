@@ -159,9 +159,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20" width="100%"/>
 
-<sub>💙 Crafted with passion and ☕ by Alejandro Canora</sub>
-
-**⭐️ "First, solve the problem. Then, write the code." - John Johnson**
 
 </div>
 
