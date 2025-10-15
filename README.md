@@ -154,16 +154,5 @@ I'm always open to interesting conversations and collaboration opportunities!
 </p>
 
 </div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20" width="100%"/>
 
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=6B7280&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Feel+free+to+explore+my+repositories+📂;Let's+build+something+amazing+together!+💻" alt="Footer typing"/>
-</div>
