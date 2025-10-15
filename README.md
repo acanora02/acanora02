@@ -8,7 +8,8 @@ I enjoy working with **Java, C++, JavaScript**, CSS, HTML and exploring modern t
 
 ## 🧠 About Me
 
-- 🌱 Currently learning **JavaScript and ROS2 for academic and personal projects**  
+- 🚀 I’m a final-year Software Engineering student eager to apply my skills in real-world projects.
+- 🌱 Open to internships and collaborative opportunities to grow as a developer.
 
 ---
 
