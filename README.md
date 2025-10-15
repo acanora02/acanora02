@@ -27,9 +27,10 @@ I enjoy working with **Java, C++, JavaScript**, CSS, HTML and exploring modern t
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acanora02&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acanora02&layout=compact&theme=tokyonight)
+
 
 ---
 
