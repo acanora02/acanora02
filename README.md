@@ -1,24 +1,21 @@
-# 👋 Hi, I'm [Tu Nombre]
+# 👋 Hi, I'm Alejandro Canora
 
-🎓 **Software Engineering Student** | 💻 **Aspiring Full-Stack Developer**  
+🎓 **Software Engineering Student**  
 Passionate about learning, building, and collaborating on software that makes an impact.  
-I enjoy working with **Java, C++, JavaScript**, and exploring modern technologies for both backend and frontend development.
+I enjoy working with **Java, C++, JavaScript**, CSS, HTML and exploring modern technologies for both backend and frontend development.
 
 ---
 
 ## 🧠 About Me
 
-- 🌱 Currently learning **JavaScript frameworks** and **database design** (MongoDB, MySQL)  
-- 🧩 Interested in **software architecture**, **clean code**, and **scalable systems**  
-- 🤝 Open to collaborating on academic or open-source projects  
-- ⚙️ Practicing **Git**, **Scrum**, and agile development workflows  
+- 🌱 Currently learning **JavaScript and ROS2 for academic and personal projects**  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` • `C` • `C++` • `JavaScript` • `HTML` • `CSS`  
+`Java` • `C` • `C++` • `JavaScript` • `HTML5` • `CSS`  
 
 **Databases:**  
 `MySQL` • `MongoDB`  
@@ -38,9 +35,8 @@ I enjoy working with **Java, C++, JavaScript**, and exploring modern technologie
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.com)
-[![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alejandro-canora-fernández-599042259)
+[![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](acanora02@gmail.com)
 
 ---
 
