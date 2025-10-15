@@ -8,22 +8,15 @@ I enjoy working with **Java, C++, JavaScript**, CSS, HTML and exploring modern t
 
 ## 🧠 About Me
 
-const alejandro = {
-    location: "Spain 🇪🇸",
-    education: "Software Engineering Student 🎓",
-    currentFocus: "Full-Stack Development & Learning ROS2 and RL",
-    interests: ["Problem Solving", "Open Source", "System Design", "Agile Development"]
-    openTo: ["Internships", "Collaborative Projects", "Learning Opportunities"]
-};
+- 🚀 I’m a final-year Software Engineering student eager to apply my skills in real-world projects.
+- 🌱 Open to internships and collaborative opportunities to grow as a developer.
 <details>
 <summary>📚 More about me...</summary>
 <br>
 
-🎯 Goal-oriented developer with a passion for creating efficient and scalable solutions
-💡 Love tackling complex problems and turning them into elegant code
-🤝 Strong believer in collaboration and knowledge sharing
-🌱 Currently deepening my knowledge in backend architecture and cloud technologies
-
+🎯 Goal-oriented developer with a passion for creating efficient and scalable solutions <br>
+🤝 Strong believer in collaboration and knowledge sharing <br>
+ <br>
 </details>
 
 ---
