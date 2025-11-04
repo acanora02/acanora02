@@ -107,7 +107,7 @@ const alejandro = {
    <td align="center" width="33%">
       <img src="https://img.icons8.com/color/96/000000/robot-2.png" width="64px"/><br>
       <b>ROS2 and RL</b><br>
-      Applications for a project i'm working for
+      Applications for a project i'm working in
     </td>
   </tr>
 </table>
