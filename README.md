@@ -88,10 +88,6 @@ const alejandro = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=acanora02&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=acanora02&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
 ---
 
 ## 🎯 Current Focus
